@@ -1,3 +1,2 @@
 # AIGrecords.github.io
-AIGrecords
-Website Template 1.
+Generic Website Template 1.
